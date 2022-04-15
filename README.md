@@ -26,7 +26,6 @@ Video Chat App is a clone of the popular chat app Discord. Users are able to cre
  Web RTC: Used for videochat and audio call possibilities.
 
 ***************************
-
 Author: Helitha Rupasinghe
 Licence: MIT
 Credit: Marek Gryszkiewicz (Web Developer)
@@ -62,7 +61,7 @@ TOKEN_KEY= yoursecretkeygoeshere
 
 ## Features
 
-#### Users 
+#### Users + Private Messaging
 - Local Authentication
 - Loads User Data upon login (Rooms, Channels, Private Messages)
 - Creation and Joining Rooms
@@ -72,8 +71,6 @@ TOKEN_KEY= yoursecretkeygoeshere
 - Timestamps for messages
 - Show current active users in given Room
 - Voice Chat (Buggy, but main features work)
-
-#### Private Messaging
 - Users receive direct messages
 - Users can send direct messages by clicking on a users avatar or username
 - Users can remove direct messages without losing their message history (TBC)
