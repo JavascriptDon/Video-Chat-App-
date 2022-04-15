@@ -3,30 +3,6 @@ A "Discord clone" with Socket.io, Node.js, Express &amp; MongoDB... Create Room,
 
 <img width="603" alt="discord" src="https://user-images.githubusercontent.com/101202952/163559556-b661b0a1-8924-4130-8adc-c1b957aed8c7.PNG">
 
-## 💾 Installation
-
-```
-# clone the repo
-$ git clone https://github.com/JavascriptDon/Video-Chat-App-.git
-
-$ cd discord-clone
-
-# install the node modules...
-$ npm install
-
-# start
-$ npm start
-
-```
-
-Create an .env file and set the variables for the backend like so...
-
-```
-API_PORT= YOUR_PORT_NUMBER_
-MONGO_URI= YOUR_MONGODB_URI_
-TOKEN_KEY= yoursecretkeygoeshere
-
-```
 ## Overview
 
 Video Chat App is a clone of the popular chat app Discord. Users are able to create and join room, send and accept/reject friend requests, create rooms with audio call possibility and message each other through text channels or through direct messaging.
@@ -55,13 +31,38 @@ Licence: MIT
 Credit: Marek Gryszkiewicz (Web Developer)
 ```
 
+## 💾 Installation
+
+```
+# clone the repo
+$ git clone https://github.com/JavascriptDon/Video-Chat-App-.git
+
+$ cd discord-clone
+
+# install the node modules...
+$ npm install
+
+# start
+$ npm start
+
+```
+
+Create an .env file and set the variables for the backend like so...
+
+```
+API_PORT= YOUR_PORT_NUMBER_
+MONGO_URI= YOUR_MONGODB_URI_
+TOKEN_KEY= yoursecretkeygoeshere
+
+```
+
 ## Features
 
 #### Users 
 - Real time messaging using Socket IO
 
 #### Private Messaging
-- Users receive direct message notifications
+- Users receive direct messages
 - Users can send direct messages by clicking on a users avatar or username
 - Users can remove direct messages without losing their message history (TBC)
 
@@ -75,12 +76,12 @@ Credit: Marek Gryszkiewicz (Web Developer)
 
 
 #### Servers
-
 -  Users can create a new Room (the user is then the admin of that Room)
 -  Rooms are created with audio call possibility
 -  Users can join an existing Room
 -  Users can close & delete the room if they are admin.
 -  Users can see all the other members in the room. 
+
 
 -  
 -  Local Authentication
@@ -93,4 +94,5 @@ Credit: Marek Gryszkiewicz (Web Developer)
 -  Show current active users in given Room
 -  Voice Chat (Buggy, but main features work)
 
-<img width="948" alt="video" src="https://user-images.githubusercontent.com/101202952/163560739-63c9906a-7f8d-4f96-9c91-f27ae9e993f2.PNG">
+
+<img width="948" alt="video" src="https://user-images.githubusercontent.com/101202952/163565298-452f16b3-32d8-4c60-8ea8-99e7d99accb6.PNG">
