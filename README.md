@@ -5,9 +5,33 @@ A "Discord clone" with Socket.io, Node.js, Express &amp; MongoDB... Create chann
 <img width="959" alt="discord" src="https://user-images.githubusercontent.com/101202952/163558551-954f3623-0881-4832-a11a-e280f532b619.PNG">
 
 
-```
- Build A Discord Chat App with MERN stack and REDUX
+## 💾 Installation
 
+```
+# clone the repo
+$ git clone https://github.com/JavascriptDon/Video-Chat-App-.git
+
+$ cd discord-clone
+
+# install the node modules...
+$ npm install
+
+# start
+$ npm start
+
+```
+
+Create an .env file and set the variables for the backend like so...
+
+```
+API_PORT= YOUR_PORT_NUMBER_
+MONGO_URI= YOUR_MONGODB_URI_
+TOKEN_KEY= yoursecretkeygoeshere
+
+```
+##  Build A Discord Chat App with MERN stack and REDUX
+
+```
  Server Side packages:
  MongoDB: Our Main Database
  Express: Our NodeJS framework
