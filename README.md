@@ -1,5 +1,5 @@
 # Video-Chat-App-
-A "Discord clone" with Socket.io, Node.js, Express &amp; MongoDB... Create channel, invite other people to your channel, chat with…
+A "Discord clone" with Socket.io, Node.js, Express &amp; MongoDB... Create Room, invite other people to your Room, chat with…
 
 <img width="603" alt="discord" src="https://user-images.githubusercontent.com/101202952/163559556-b661b0a1-8924-4130-8adc-c1b957aed8c7.PNG">
 
@@ -27,9 +27,17 @@ MONGO_URI= YOUR_MONGODB_URI_
 TOKEN_KEY= yoursecretkeygoeshere
 
 ```
-##  Build A Discord Chat App with MERN stack and REDUX
+## Overview
+
+Video Chat App is a clone of the popular chat app Discord. Users are able to create and join room, send and accept/reject friend requests, create rooms with audio call possibility and message each other through text channels or through direct messaging.
+
+**This project is not currently maintained.**
+
+##  Technologies Used
 
 ```
+ Build A Discord Chat App with MERN stack and REDUX
+ 
  Server Side packages:
  MongoDB: Our Main Database
  Express: Our NodeJS framework
@@ -49,11 +57,36 @@ Credit: Marek Gryszkiewicz (Web Developer)
 
 ## Features
 
--  Real time messaging using Socket IO
+#### Users 
+- Real time messaging using Socket IO
+
+#### Private Messaging
+- Users receive direct message notifications
+- Users can send direct messages by clicking on a users avatar or username
+- Users can remove direct messages without losing their message history (TBC)
+
+#### Friend Requests 
+- Users can accept or reject friend requests
+- Friend requests are sent in real time
+- Users can cancel outgoing friend requests
+- Users can see who is online/offline 
+- Users can accept or cancel incoming friend requests
+- Users can remove friends from their friends list (TBC)
+
+
+#### Servers
+
+-  Users can create a new Room (the user is then the admin of that Room)
+-  Rooms are created with audio call possibility
+-  Users can join an existing Room
+-  Users can close & delete the room if they are admin.
+-  Users can see all the other members in the room. 
+
+-  
 -  Local Authentication
 -  Loads User Data upon login (Rooms, Channels, Private Messages)
 -  Creation and Joining Rooms
--  Room Settings (Tracks Changes between Camera, Mic, ScreenShare and delete Button)
+-  Room Settings (Changes between Camera, Mic, ScreenShare and deletion of room)
 -  Persistent channel history
 -  Private messaging
 -  Timestamps for messages
