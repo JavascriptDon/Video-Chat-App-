@@ -7,7 +7,7 @@ A "Discord clone" with Socket.io, Node.js, Express &amp; MongoDB... Create Room,
 
 Video Chat App is a clone of the popular chat app Discord. Users are able to create and join room, send and accept/reject friend requests, create rooms with audio call possibility and message each other through text channels or through direct messaging.
 
-**This project is not currently maintained.**
+
 
 ##  Technologies Used
 
