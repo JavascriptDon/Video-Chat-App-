@@ -34,10 +34,10 @@ Credit: Marek Gryszkiewicz (Web Developer)
 
 ```
 
-## 💾 Installation
+## 💾 Installation 
 
 ```
-# Vist the Backend Branch + clone the repo
+# Clone the repo 
 $ git clone https://github.com/JavascriptDon/Video-Chat-App-.git
 
 $ cd Video-Chat-App
