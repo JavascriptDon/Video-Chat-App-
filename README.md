@@ -61,7 +61,6 @@ TOKEN_KEY= yoursecretkeygoeshere
 
 ## Features
 
-#### Overview
 - Local Authentication
 - Loads User Data upon login (Rooms, Channels, Private Messages)
 - Creation and Joining Rooms
