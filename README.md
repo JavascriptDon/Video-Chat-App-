@@ -59,7 +59,15 @@ TOKEN_KEY= yoursecretkeygoeshere
 ## Features
 
 #### Users 
-- Real time messaging using Socket IO
+- Local Authentication
+- Loads User Data upon login (Rooms, Channels, Private Messages)
+- Creation and Joining Rooms
+- Room Settings (Changes between Camera, Mic, ScreenShare and deletion of room)
+- Persistent channel history
+- Private messaging
+- Timestamps for messages
+- Show current active users in given Room
+- Voice Chat (Buggy, but main features work)
 
 #### Private Messaging
 - Users receive direct messages
@@ -74,25 +82,12 @@ TOKEN_KEY= yoursecretkeygoeshere
 - Users can accept or cancel incoming friend requests
 - Users can remove friends from their friends list (TBC)
 
-
 #### Servers
--  Users can create a new Room (the user is then the admin of that Room)
--  Rooms are created with audio call possibility
--  Users can join an existing Room
--  Users can close & delete the room if they are admin.
--  Users can see all the other members in the room. 
-
-
--  
--  Local Authentication
--  Loads User Data upon login (Rooms, Channels, Private Messages)
--  Creation and Joining Rooms
--  Room Settings (Changes between Camera, Mic, ScreenShare and deletion of room)
--  Persistent channel history
--  Private messaging
--  Timestamps for messages
--  Show current active users in given Room
--  Voice Chat (Buggy, but main features work)
+- Users can create a new Room (the user is then the admin of that Room)
+- Rooms are created with audio call possibility
+- Users can join an existing Room
+- Users can close & delete the room if they are admin.
+- Users can see all the other members in the room. 
 
 
 <img width="945" alt="video" src="https://user-images.githubusercontent.com/101202952/163565486-5035e88c-38b8-4ffd-ac2c-44d4789cbafa.PNG">
