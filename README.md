@@ -95,4 +95,5 @@ TOKEN_KEY= yoursecretkeygoeshere
 -  Voice Chat (Buggy, but main features work)
 
 
-<img width="948" alt="video" src="https://user-images.githubusercontent.com/101202952/163565298-452f16b3-32d8-4c60-8ea8-99e7d99accb6.PNG">
+<img width="945" alt="video" src="https://user-images.githubusercontent.com/101202952/163565486-5035e88c-38b8-4ffd-ac2c-44d4789cbafa.PNG">
+
