@@ -71,11 +71,6 @@ TOKEN_KEY= yoursecretkeygoeshere
 - Show current active users in given Room
 - Voice Chat (Buggy, but main features work)
 
-#### Private Messaging
-- Users receive direct messages
-- Users can send direct messages by clicking on a users avatar or username
-- Users can remove direct messages without losing their message history (TBC)
-
 <img width="906" alt="messages" src="https://user-images.githubusercontent.com/101202952/163566211-78facc81-cbd8-4a55-93fa-b526662036bb.PNG">
 
 
