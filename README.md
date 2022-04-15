@@ -59,7 +59,7 @@ TOKEN_KEY= yoursecretkeygoeshere
 
 ```
 
-## Features
+##  Features: 🚀
 
 - Local Authentication
 - Loads User Data upon login (Rooms, Channels, Private Messages)
