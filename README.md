@@ -26,9 +26,13 @@ Video Chat App is a clone of the popular chat app Discord. Users are able to cre
  Web RTC: Used for videochat and audio call possibilities.
 
 ***************************
+
 Author: Helitha Rupasinghe
 Licence: MIT
 Credit: Marek Gryszkiewicz (Web Developer)
+
+***************************
+
 ```
 
 ## 💾 Installation
