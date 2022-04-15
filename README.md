@@ -46,3 +46,8 @@ Author: Helitha Rupasinghe
 Licence: MIT
 Credit: Marek Gryszkiewicz (Web Developer)
 ```
+
+## Features
+
+<img width="948" alt="video" src="https://user-images.githubusercontent.com/101202952/163560739-63c9906a-7f8d-4f96-9c91-f27ae9e993f2.PNG">
+
