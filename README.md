@@ -61,7 +61,7 @@ TOKEN_KEY= yoursecretkeygoeshere
 
 ## Features
 
-#### Users + Private Messaging
+#### Overview
 - Local Authentication
 - Loads User Data upon login (Rooms, Channels, Private Messages)
 - Creation and Joining Rooms
@@ -71,6 +71,8 @@ TOKEN_KEY= yoursecretkeygoeshere
 - Timestamps for messages
 - Show current active users in given Room
 - Voice Chat (Buggy, but main features work)
+
+#### Private Messaging
 - Users receive direct messages
 - Users can send direct messages by clicking on a users avatar or username
 - Users can remove direct messages without losing their message history (TBC)
