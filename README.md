@@ -37,10 +37,10 @@ Credit: Marek Gryszkiewicz (Web Developer)
 ## 💾 Installation
 
 ```
-# clone the repo
+# Vist the Backend Branch + clone the repo
 $ git clone https://github.com/JavascriptDon/Video-Chat-App-.git
 
-$ cd discord-clone
+$ cd Video-Chat-App
 
 # install the node modules...
 $ npm install
