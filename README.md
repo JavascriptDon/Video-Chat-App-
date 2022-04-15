@@ -34,31 +34,6 @@ Credit: Marek Gryszkiewicz (Web Developer)
 
 ```
 
-## 💾 Installation 
-
-```
-# Clone the repo 
-$ git clone https://github.com/JavascriptDon/Video-Chat-App-.git
-
-$ cd Video-Chat-App
-
-# install the node modules...
-$ npm install
-
-# start
-$ npm start
-
-```
-
-Create an .env file and set the variables for the backend like so...
-
-```
-API_PORT= YOUR_PORT_NUMBER_
-MONGO_URI= YOUR_MONGODB_URI_
-TOKEN_KEY= yoursecretkeygoeshere
-
-```
-
 ##  Features: 🚀
 
 - Local Authentication
