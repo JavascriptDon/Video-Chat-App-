@@ -51,3 +51,13 @@ Credit: Marek Gryszkiewicz (Web Developer)
 
 <img width="948" alt="video" src="https://user-images.githubusercontent.com/101202952/163560739-63c9906a-7f8d-4f96-9c91-f27ae9e993f2.PNG">
 
+-  Real time messaging using Socket IO
+-  Local Authentication
+-  Loads User Data upon login (Rooms, Channels, Private Messages)
+-  Creation and Joining Rooms
+-  Room Settings (Tracks Changes between Camera, Mic, ScreenShare and delete Button)
+-  Persistent channel history
+-  Private messaging
+-  Timestamps for messages
+-  Show current active users in given Room
+-  Voice Chat (Buggy, but main features work)
