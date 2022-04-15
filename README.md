@@ -2,6 +2,9 @@
 A "Discord clone" with Socket.io, Node.js, Express &amp; MongoDB... Create channel, invite other people to your channel, chat with…
 
 
+<img width="959" alt="discord" src="https://user-images.githubusercontent.com/101202952/163558551-954f3623-0881-4832-a11a-e280f532b619.PNG">
+
+
 ```
  Build A Discord Chat App with MERN stack and REDUX
 
