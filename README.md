@@ -102,3 +102,15 @@ TOKEN_KEY= yoursecretkeygoeshere
 
 <img width="945" alt="video" src="https://user-images.githubusercontent.com/101202952/163565486-5035e88c-38b8-4ffd-ac2c-44d4789cbafa.PNG">
 
+## License: 📝
+This project is under the MIT license. See the [License](https://intense-eyrie-38900.herokuapp.com/dashboard) for more information.
+
+## Contributions
+Contributions are always welcome...
+
+- Fork the repository
+- Improve current program by
+- improving functionality
+- adding a new feature
+- bug fixes
+- Push your work and Create a Pull Request
