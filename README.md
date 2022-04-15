@@ -1,5 +1,4 @@
 # Video-Chat-App-
-A "Discord clone" with Socket.io, Node.js, Express &amp; MongoDB... Create Room, invite other people to your Room, chat with…
 
 <img width="603" alt="discord" src="https://user-images.githubusercontent.com/101202952/163559556-b661b0a1-8924-4130-8adc-c1b957aed8c7.PNG">
 
