@@ -78,6 +78,9 @@ TOKEN_KEY= yoursecretkeygoeshere
 - Users can send direct messages by clicking on a users avatar or username
 - Users can remove direct messages without losing their message history (TBC)
 
+<img width="906" alt="messages" src="https://user-images.githubusercontent.com/101202952/163566211-78facc81-cbd8-4a55-93fa-b526662036bb.PNG">
+
+
 #### Friend Requests 
 - Users can accept or reject friend requests
 - Friend requests are sent in real time
@@ -85,6 +88,9 @@ TOKEN_KEY= yoursecretkeygoeshere
 - Users can see who is online/offline 
 - Users can accept or cancel incoming friend requests
 - Users can remove friends from their friends list (TBC)
+
+<img width="930" alt="friend" src="https://user-images.githubusercontent.com/101202952/163566374-7dd5db39-2e73-4179-baf9-c5873e4e78fd.PNG">
+
 
 #### Servers
 - Users can create a new Room (the user is then the admin of that Room)
