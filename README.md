@@ -72,7 +72,7 @@ Credit: Marek Gryszkiewicz (Web Developer)
 ## Testing the sample app for video-call possibility between browsers. 
 
 	| E-MAIL | PASSWORD |
-	| michael@gmai.com | 123123 |
+	| michael@gmail.com | 123123 |
 	| uriel@gmail.com  | 123123 |
 
 Open the Video-Chat-App between two browsers and authenticate with the details provided above. 
