@@ -71,7 +71,7 @@ Credit: Marek Gryszkiewicz (Web Developer)
 
 ## Testing 
 	| E-MAIL | PASSWORD |
-	| ----------- | ----------- |
+	| michael@gmai.com | 123123 |
 	| uriel@gmail.com  | 123123 |
 
 ## License: 📝
