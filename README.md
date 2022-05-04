@@ -70,11 +70,9 @@ Credit: Marek Gryszkiewicz (Web Developer)
 <img width="945" alt="video" src="https://user-images.githubusercontent.com/101202952/163565486-5035e88c-38b8-4ffd-ac2c-44d4789cbafa.PNG">
 
 ## Testing 
-	| syntax | Description |
-| ----------- | ----------- |
-| E-MAIL | PASSWORD |
-| uriel@gmail.com | 123123|
-
+	| E-MAIL | PASSWORD |
+	| ----------- | ----------- |
+	| uriel@gmail.com  | 123123 |
 
 ## License: 📝
 This project is under the MIT license. See the [License](https://intense-eyrie-38900.herokuapp.com/dashboard) for more information.
