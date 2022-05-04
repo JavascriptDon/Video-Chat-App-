@@ -69,10 +69,18 @@ Credit: Marek Gryszkiewicz (Web Developer)
 
 <img width="945" alt="video" src="https://user-images.githubusercontent.com/101202952/163565486-5035e88c-38b8-4ffd-ac2c-44d4789cbafa.PNG">
 
-## Testing 
+## Testing the sample app for video-call possibility between browsers. 
+
 	| E-MAIL | PASSWORD |
 	| michael@gmai.com | 123123 |
 	| uriel@gmail.com  | 123123 |
+
+Open the Video-Chat-App between two browsers and authenticate with the details provided above. 
+
+* Notice the activeUsers on both browsers before creating a room 
+* Create a room and join the newly created room on both browsers and hover over the room to view the number of connected users. 
+* Successful peer-to-peer connection with both browsers accepting ICE Server configuration. 
+
 
 ## License: 📝
 This project is under the MIT license. See the [License](https://intense-eyrie-38900.herokuapp.com/dashboard) for more information.
