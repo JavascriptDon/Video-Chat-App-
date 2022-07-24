@@ -81,11 +81,10 @@ Open the Video-Chat-App between two browsers and authenticate with the details p
 * Create a room and join the newly created room on both browsers and hover over the room to view the number of connected users. 
 * Successful peer-to-peer connection between both browsers accepting ICE Server configuration. 
 
+## 🛡️ License: 
+This project is under the MIT License (MIT). See the [LICENSE](https://intense-eyrie-38900.herokuapp.com/dashboard) for more information.
 
-## License: 📝
-This project is under the MIT license. See the [License](https://intense-eyrie-38900.herokuapp.com/dashboard) for more information.
-
-## Contributions
+## 👨‍💻 Contributions:
 Contributions are always welcome...
 
 - Fork the repository
