@@ -90,7 +90,7 @@ git push origin YourBranchName
 
 **11.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
-**12.** **Congratulations!** You've made your first contribution to [**Social-Media-Blocks-Extension**](https://github.com/JavascriptDon/Video-Chat-App--main/graphs/contributors)! 🙌🏼
+**12.** **Congratulations!** You've made your first contribution to [**Video-Chat-App--main**](https://github.com/JavascriptDon/Video-Chat-App--main/graphs/contributors)! 🙌🏼
 
 **_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the LinkFree project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
 
